@@ -1,0 +1,1 @@
+This project is actually an active [Kaggle competition](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) which served as a final project for the "How to win a data science competition" Coursera course which I had completed in May, 2020 [[view certificate](https://www.coursera.org/account/accomplishments/certificate/MGGEWVK3AZNS)].
